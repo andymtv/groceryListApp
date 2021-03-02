@@ -1,0 +1,14 @@
+.App {
+    width: 100%;
+    font-family: Helvetica;
+}
+
+.row {
+    display: flex;
+}
+
+td {
+    width: 24.5%;
+    display: flex;
+    justify-content: center;
+}

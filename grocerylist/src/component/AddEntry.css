@@ -1,0 +1,12 @@
+.GroceryList-AddEntry-row {
+    display: flex;
+    justify-content: center;
+}
+
+.GroceryList-AddEntry-row > td {
+    width: 100%;
+}
+
+.GroceryList-AddEntry-input {
+    width: 100%;
+}
