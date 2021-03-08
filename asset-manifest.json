@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/groceryListApp/static/css/main.4c5653ce.chunk.css",
+    "main.css": "/groceryListApp/static/css/main.ca647865.chunk.css",
     "main.js": "/groceryListApp/static/js/main.106652ca.chunk.js",
     "main.js.map": "/groceryListApp/static/js/main.106652ca.chunk.js.map",
     "runtime-main.js": "/groceryListApp/static/js/runtime-main.6be74a46.js",
@@ -8,13 +8,13 @@
     "static/js/2.633ba68e.chunk.js": "/groceryListApp/static/js/2.633ba68e.chunk.js",
     "static/js/2.633ba68e.chunk.js.map": "/groceryListApp/static/js/2.633ba68e.chunk.js.map",
     "index.html": "/groceryListApp/index.html",
-    "static/css/main.4c5653ce.chunk.css.map": "/groceryListApp/static/css/main.4c5653ce.chunk.css.map",
+    "static/css/main.ca647865.chunk.css.map": "/groceryListApp/static/css/main.ca647865.chunk.css.map",
     "static/js/2.633ba68e.chunk.js.LICENSE.txt": "/groceryListApp/static/js/2.633ba68e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6be74a46.js",
     "static/js/2.633ba68e.chunk.js",
-    "static/css/main.4c5653ce.chunk.css",
+    "static/css/main.ca647865.chunk.css",
     "static/js/main.106652ca.chunk.js"
   ]
 }
