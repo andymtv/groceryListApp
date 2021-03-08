@@ -33,7 +33,7 @@ export default function Entry({entryName, entryLastChanged, entryStatus, entryPr
                 </select>
             </td>
             <td>
-                <button className='deleteButton btn btn-danger' onClick={deleteEntry}>Delete</button>
+                <button className='deleteButton btn btn-warning' onClick={deleteEntry}>Delete</button>
             </td>
         </tr>
     )

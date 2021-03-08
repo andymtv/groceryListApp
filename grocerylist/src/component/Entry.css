@@ -9,3 +9,7 @@
 .GroceryList-Entry-row > td:nth-child(1) {
     justify-content: flex-start;
 }
+
+.EntryName, .EntryPriority, .EntryStatus, .EntryLastChanged {
+    margin-left: 0.5rem;
+}

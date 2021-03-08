@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import './App.css';
+import AppHeader from './component/AppHeader';
 import EntriesList from './component/EntriesList';
 import AddEntry from './component/AddEntry';
 import SortAndFilter from './component/SortAndFilter';
@@ -103,7 +104,8 @@ export default function App() {
 
   return (
     <table className='App'>
-        <tbody>   
+        <tbody>
+            <AppHeader title='Grocery List' />
             <AddEntry 
               addEntry={addEntry} 
               createEntry={createEntry}/>
